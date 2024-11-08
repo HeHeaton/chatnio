@@ -1,4 +1,4 @@
 {
-    "serverless": false,
-    "ignore_dockerfile": false
+    "serverless": true,
+    "ignore_dockerfile": true
 }
