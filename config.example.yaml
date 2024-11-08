@@ -1,16 +1,16 @@
 mysql:
   db: chatnio
-  host: localhost
-  password: chatnio123456
-  port: 3306
+  host: free.clusters.zeabur.com
+  password: BsSWnIK31HNpdolyV8064keam957uZ2D
+  port: 31114
   user: root
   tls: false
 
 redis:
-  host: localhost
-  port: 6379
+  host: free.clusters.zeabur.com
+  port: 32226
   db: 0
-  password: ""
+  password: "0EDAgsL6M5Zluq192fNWcwr8J47xjdO3"
 
 
 secret: secret
